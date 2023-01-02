@@ -1,0 +1,9 @@
+{
+  "name": "Stacked-Artillery",
+  "version": "0.1.0",
+  "title": "Stacked Artillery Shells",
+  "author": "toor",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Adds a recipie to stack artillery shells to make them easier to transport "
+}
